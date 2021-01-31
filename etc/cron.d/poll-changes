@@ -1,0 +1,4 @@
+PATH=/usr/local/bin:/usr/bin:/bin
+SHELL=/bin/sh
+
+*/15 * * * * ubuntu /usr/local/bin/poller.sh
