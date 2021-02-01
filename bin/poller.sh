@@ -5,7 +5,7 @@ cd "$(dirname "${BASH_SOURCE}")/.."
 source ./.env
 source ./bin/utils.sh
 
-use git slack.sh curl sed json2csv
+use git slack.sh curl sed json2csv dos2unix
 
 mkdir -p ./watch ./data
 
@@ -17,5 +17,5 @@ wait
 git add ./watch
 git commit -m "$0 $@"
 if test $? -eq 0
-then git log -1 -p -w -U0 | xargs -0 slack.sh
+then git log -1 -p -w -U0 ./watch | xargs -0 slack.sh
 fi

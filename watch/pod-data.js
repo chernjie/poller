@@ -1721,7 +1721,7 @@ var unfiltered = [{
         "time": "8:15am-4:15pm",
         "link": "https://cw.calvax.org/clinic/private_registration/cY0H8I",
         "secondDose": "",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
@@ -1745,7 +1745,7 @@ var unfiltered = [{
         "time": "8:15am-4:15pm",
         "link": "https://cw.calvax.org/clinic/private_registration/9gEG3v",
         "secondDose": "",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
@@ -1769,7 +1769,7 @@ var unfiltered = [{
         "time": "8:15am-4:15pm",
         "link": "https://cw.calvax.org/clinic/private_registration/fX4wvZ",
         "secondDose": "",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
@@ -1793,7 +1793,7 @@ var unfiltered = [{
         "time": "8:15am-4:15pm",
         "link": "https://cw.calvax.org/clinic/private_registration/NA3gGv",
         "secondDose": "",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
@@ -1817,7 +1817,7 @@ var unfiltered = [{
         "time": "8:15am-4:15pm",
         "link": "https://cw.calvax.org/clinic/private_registration/2gsEY1",
         "secondDose": "",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
