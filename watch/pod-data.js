@@ -305,7 +305,7 @@ var unfiltered = [{
         "time": "8:30am-3:30pm",
         "link": "https://www.calvax.org/clinic/private_registration/823c36b3-e85f-49a7-990e-831289303e18",
         "secondDose": "",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
@@ -377,7 +377,7 @@ var unfiltered = [{
         "time": "8:30am-3:30pm",
         "link": "https://www.calvax.org/clinic/private_registration/b669dd90-4c29-4077-aa10-e76ca2a4f58e",
         "secondDose": "",
-        "full": "full",
+        "full": "",
         "comments": "",
         "commentsSpn": "",
         "times": ""
