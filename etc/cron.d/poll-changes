@@ -1,4 +1,4 @@
 PATH=/usr/local/bin:/usr/bin:/bin
 SHELL=/bin/sh
 
-* * * * * ubuntu /usr/local/bin/poller.sh
+* * * * * ubuntu /usr/local/bin/poller.sh 2>&1 >> /var/log/poll-changes.log
