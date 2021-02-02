@@ -9,7 +9,7 @@ use git slack.sh curl sed json2csv dos2unix html-beautify
 
 mkdir -p ./watch ./data
 
-for i in ./jobs/*.sh
+for i in ./jobs/*.sh ./jobs/*.js
 do "$i"
 done
 
