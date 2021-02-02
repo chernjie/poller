@@ -15,7 +15,7 @@ done
 
 wait
 git add ./watch
-git commit -m "$0 $@"
+git commit -m "$(basename $0) $@"
 if test $? -eq 0
 then git log -1 -p -w -U0 ./watch | xargs -0 slack.sh
     git push
