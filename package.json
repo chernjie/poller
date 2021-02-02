@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "js-yaml": "^4.0.0",
+    "json2csv": "^5.0.5",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1"
+  }
+}
