@@ -4,7 +4,7 @@
     "locationExtId": "a2ut0000006a8onAAA",
     "availability": [
       {
-        "date": "2021-02-04",
+        "date": "2021-02-03",
         "available": true
       }
     ]
@@ -25,6 +25,10 @@
     "availability": [
       {
         "date": "2021-02-02",
+        "available": true
+      },
+      {
+        "date": "2021-02-05",
         "available": true
       }
     ]
