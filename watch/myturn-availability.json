@@ -6,6 +6,10 @@
       {
         "date": "2021-02-02",
         "available": true
+      },
+      {
+        "date": "2021-02-06",
+        "available": true
       }
     ]
   },
@@ -35,6 +39,10 @@
     "availability": [
       {
         "date": "2021-02-02",
+        "available": true
+      },
+      {
+        "date": "2021-02-03",
         "available": true
       }
     ]
