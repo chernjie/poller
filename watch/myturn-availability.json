@@ -2,7 +2,12 @@
   {
     "vaccineData": "WyJhM3F0MDAwMDAwMDFBZExBQVUiXQ==",
     "locationExtId": "a2ut0000006a8onAAA",
-    "availability": []
+    "availability": [
+      {
+        "date": "2021-02-05",
+        "available": true
+      }
+    ]
   },
   {
     "vaccineData": "WyJhM3F0MDAwMDAwMDFBZExBQVUiXQ==",
@@ -21,17 +26,16 @@
       {
         "date": "2021-02-05",
         "available": true
+      },
+      {
+        "date": "2021-02-07",
+        "available": true
       }
     ]
   },
   {
     "vaccineData": "WyJhM3F0MDAwMDAwMDFBZExBQVUiXQ==",
     "locationExtId": "a2ut0000006a8oiAAA",
-    "availability": [
-      {
-        "date": "2021-02-07",
-        "available": true
-      }
-    ]
+    "availability": []
   }
 ]
