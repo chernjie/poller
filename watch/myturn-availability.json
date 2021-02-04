@@ -14,7 +14,7 @@
     "locationExtId": "a2ut0000006a8oxAAA",
     "availability": [
       {
-        "date": "2021-02-05",
+        "date": "2021-02-07",
         "available": true
       }
     ]
@@ -22,12 +22,7 @@
   {
     "vaccineData": "WyJhM3F0MDAwMDAwMDFBZExBQVUiXQ==",
     "locationExtId": "a2ut0000006a8osAAA",
-    "availability": [
-      {
-        "date": "2021-02-07",
-        "available": true
-      }
-    ]
+    "availability": []
   },
   {
     "vaccineData": "WyJhM3F0MDAwMDAwMDFBZExBQVUiXQ==",
