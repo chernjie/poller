@@ -17,6 +17,10 @@ wait
 git add ./watch
 git commit -m "$(basename $0) $@"
 if test $? -eq 0
-then git log -1 -p -w -U0 ./watch | gsed -e '1i```\' | gsed -e '$a```\' | xargs -0 slack.sh
+then
+	git log -1 -p -w -U0 --format="%h %B" ./watch |
+		gsed -e '1i```\' |
+		gsed -e '$a```\' |
+		xargs -0 slack.sh
     git push
 fi

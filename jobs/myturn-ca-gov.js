@@ -17,12 +17,17 @@ async function vcr(filecache, fn, ...args) {
   )
 }
 
-function _locationSearch(location, name) {
+function _locationSearch(location) {
 
   const payload = {
     location,
-    fromDate: moment().format('YYYY-MM-DD'),
-    vaccineData: "WyJhM3F0MDAwMDAwMDFBZExBQVUiLCJhM3F0MDAwMDAwMDFBZE1BQVUiLCJhM3F0MDAwMDAwMDFBZ1VBQVUiLCJhM3F0MDAwMDAwMDFBZ1ZBQVUiXQ==",
+    fromDate: moment().add(1, 'days').format('YYYY-MM-DD'),
+    vaccineData: Buffer.from(JSON.stringify([
+      "a3qt00000001AdLAAU",
+      "a3qt00000001AdMAAU",
+      "a3qt00000001AgUAAU",
+      "a3qt00000001AgVAAU",
+    ])).toString('base64'),
     url: "https://myturn.ca.gov/location-select",
   }
 
@@ -80,7 +85,7 @@ async function _allLocationSearch() {
 
 async function _getAvailability({ extId, vaccineData }) {
   const payload = {
-    "startDate": moment().format('YYYY-MM-DD'),
+    "startDate": moment().add(1, 'days').format('YYYY-MM-DD'),
     "endDate": moment().endOf('month').format('YYYY-MM-DD'),
     vaccineData,
     "doseNumber": 1,
@@ -118,7 +123,7 @@ async function _getAllAvailability() {
 
   return await Promise.all(
     (await vcr('./watch/myturn-search.json', _allLocationSearch))
-    .filter(el => el.vaccineData == 'WyJhM3F0MDAwMDAwMDFBZExBQVUiXQ==')
+    .filter(el => el.vaccineData == Buffer.from(JSON.stringify(["a3qt00000001AdLAAU"])).toString('base64'))
     .map(_getAvailability)
   )
 }
