@@ -2,12 +2,7 @@
   {
     "vaccineData": "WyJhM3F0MDAwMDAwMDFBZExBQVUiXQ==",
     "locationExtId": "a2ut0000006a8onAAA",
-    "availability": [
-      {
-        "date": "2021-02-05",
-        "available": true
-      }
-    ]
+    "availability": []
   },
   {
     "vaccineData": "WyJhM3F0MDAwMDAwMDFBZExBQVUiXQ==",
@@ -18,15 +13,7 @@
         "available": true
       },
       {
-        "date": "2021-02-05",
-        "available": true
-      },
-      {
         "date": "2021-02-06",
-        "available": true
-      },
-      {
-        "date": "2021-02-07",
         "available": true
       }
     ]
@@ -41,10 +28,6 @@
       },
       {
         "date": "2021-02-05",
-        "available": true
-      },
-      {
-        "date": "2021-02-06",
         "available": true
       },
       {
@@ -80,11 +63,7 @@
     "locationExtId": "a2ut0000006a8oiAAA",
     "availability": [
       {
-        "date": "2021-02-05",
-        "available": true
-      },
-      {
-        "date": "2021-02-06",
+        "date": "2021-02-07",
         "available": true
       }
     ]
