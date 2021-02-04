@@ -6,14 +6,6 @@
       {
         "date": "2021-02-05",
         "available": true
-      },
-      {
-        "date": "2021-02-06",
-        "available": true
-      },
-      {
-        "date": "2021-02-07",
-        "available": true
       }
     ]
   },
@@ -92,7 +84,7 @@
         "available": true
       },
       {
-        "date": "2021-02-07",
+        "date": "2021-02-06",
         "available": true
       }
     ]
