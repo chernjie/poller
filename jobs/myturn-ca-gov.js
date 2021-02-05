@@ -123,7 +123,9 @@ async function _getAllAvailability() {
 
   return await Promise.all(
     (await vcr('./watch/myturn-search.json', _allLocationSearch))
-    .filter(el => el.vaccineData == Buffer.from(JSON.stringify(["a3qt00000001AdLAAU"])).toString('base64'))
+    .filter(el => el.vaccineData == Buffer.from(JSON.stringify([
+      "a3qt00000001AdLAAU",
+    ])).toString('base64'))
     .map(_getAvailability)
   )
 }
