@@ -4,17 +4,21 @@ const fs = require('fs')
 const moment = require('moment')
 const fetch = require('node-fetch')
 
-async function vcr(filecache, fn, ...args) {
+function vcr(filename, fn) {
+  return async (...args) => {
 
-  if (fs.existsSync(filecache)) {
-    return require(`.${filecache}`)
+    if (fs.existsSync(file)) return require(`.${file}`)
+
+    const response = await fn.apply(null, args)
+
+    fs.writeFile(
+      file,
+      JSON.stringify(response, null, 2),
+      err => console.error(err),
+    )
+
+    return response
   }
-
-  fs.writeFile(
-    filecache,
-    JSON.stringify(await fn(args), null, 2),
-    err => console.error(err),
-  )
 }
 
 function _locationSearch(location) {
@@ -122,7 +126,7 @@ async function _getAvailability({ extId, vaccineData }) {
 async function _getAllAvailability() {
 
   return await Promise.all(
-    (await vcr('./watch/myturn-search.json', _allLocationSearch))
+    (await vcr('./watch/myturn-search.json', _allLocationSearch)())
     .filter(el => el.vaccineData == Buffer.from(JSON.stringify([
       "a3qt00000001AdLAAU",
     ])).toString('base64'))
