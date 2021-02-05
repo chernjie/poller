@@ -713,7 +713,7 @@ var unfiltered = [{
         "time": "5-7:30pm",
         "link": "https://www.calvax.org/clinic/private_registration/df07196a-97b3-4081-95b9-2b22340b2c7c",
         "secondDose": "",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
@@ -737,7 +737,7 @@ var unfiltered = [{
         "time": "5-7:30pm",
         "link": "https://www.calvax.org/clinic/private_registration/56e28e7b-c3f5-4a51-8d3b-47a18778f7bb",
         "secondDose": "",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
@@ -1578,8 +1578,8 @@ var unfiltered = [{
         "link": "https://cw.calvax.org/clinic/private_registration/2gsEY1",
         "secondDose": "",
         "full": "full",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "More appointments coming soon.",
+        "commentsSpn": "Más enlaces de registro próximamente.",
         "times": ""
     },
     {
@@ -1674,8 +1674,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1609866524404",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -1698,8 +1698,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610393903700",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -1722,8 +1722,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610395048189",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -1746,8 +1746,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610388145466",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -1770,8 +1770,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610389543822",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -1794,8 +1794,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610410997109",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -1818,8 +1818,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610414123440",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -1842,8 +1842,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610148429356",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -1866,8 +1866,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610414895548",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -1890,8 +1890,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1609865995492",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -1914,8 +1914,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610476821975",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -1938,8 +1938,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610407435883",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -1962,8 +1962,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610408518196",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -1986,8 +1986,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610482659828",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -2010,8 +2010,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610409056775",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -3042,8 +3042,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610395570282",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -3066,8 +3066,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610396195172",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -3090,8 +3090,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610396630375",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -3114,8 +3114,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610401939413",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -3138,8 +3138,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610389970967",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -3162,8 +3162,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610402611759",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -3186,8 +3186,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610403823821",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -3210,8 +3210,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610404281980",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -3234,8 +3234,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610405744296",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -3258,8 +3258,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610146751130",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -3282,8 +3282,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610390463496",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -3306,8 +3306,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610409679011",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -3330,8 +3330,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610410112868",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -3354,8 +3354,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610410493914",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -3378,8 +3378,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610411476287",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -3402,8 +3402,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610147495588",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -3426,8 +3426,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610412673520",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -3450,8 +3450,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610413691675",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -3474,8 +3474,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610147997263",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -3498,8 +3498,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610390905213",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
@@ -3522,8 +3522,8 @@ var unfiltered = [{
         "link": "https://kordinator.mhealthcoach.net/vcl/1610414565553",
         "secondDose": "",
         "full": "",
-        "comments": "",
-        "commentsSpn": "",
+        "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
+        "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": []
     },
     {
