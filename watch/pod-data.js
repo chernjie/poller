@@ -913,7 +913,7 @@ var unfiltered = [{
     {
         "id": 82,
         "xParent": 3,
-        "NumChildren": 1,
+        "NumChildren": 2,
         "inactive": "",
         "name": "East Valley Community Health Center - West Covina",
         "addr1": "420 S. Glendora",
@@ -954,6 +954,30 @@ var unfiltered = [{
         "link": "https://cw.calvax.org/clinic/private_registration/a339abf7-775a-4523-8605-56d382f87d51",
         "secondDose": "",
         "full": "full",
+        "comments": "",
+        "commentsSpn": "",
+        "times": ""
+    },
+    {
+        "id": "",
+        "xParent": 82,
+        "NumChildren": 999,
+        "inactive": "",
+        "name": "",
+        "addr1": "",
+        "addr2": "",
+        "vaccines": "",
+        "logo": "",
+        "mapZoom": "",
+        "notes": "",
+        "notesSpn": "",
+        "alt": "",
+        "altSpn": "",
+        "date": "2/8/2021",
+        "time": "8:30am-3:30pm",
+        "link": "https://cw.calvax.org/clinic/private_registration/8045f294-6377-4a2d-a293-df0f867b3e37",
+        "secondDose": "",
+        "full": "",
         "comments": "",
         "commentsSpn": "",
         "times": ""
@@ -6337,7 +6361,7 @@ var unfiltered = [{
     {
         "id": "",
         "xParent": 304,
-        "NumChildren": 0,
+        "NumChildren": 999,
         "inactive": "",
         "name": "",
         "addr1": "",
@@ -6361,7 +6385,7 @@ var unfiltered = [{
     {
         "id": "",
         "xParent": 304,
-        "NumChildren": 0,
+        "NumChildren": 999,
         "inactive": "",
         "name": "",
         "addr1": "",
@@ -6385,7 +6409,7 @@ var unfiltered = [{
     {
         "id": "",
         "xParent": 304,
-        "NumChildren": 0,
+        "NumChildren": 999,
         "inactive": "",
         "name": "",
         "addr1": "",
@@ -6409,7 +6433,7 @@ var unfiltered = [{
     {
         "id": "",
         "xParent": 304,
-        "NumChildren": 0,
+        "NumChildren": 999,
         "inactive": "",
         "name": "",
         "addr1": "",
@@ -6433,7 +6457,7 @@ var unfiltered = [{
     {
         "id": "",
         "xParent": 304,
-        "NumChildren": 0,
+        "NumChildren": 999,
         "inactive": "",
         "name": "",
         "addr1": "",
@@ -6457,7 +6481,7 @@ var unfiltered = [{
     {
         "id": "",
         "xParent": 304,
-        "NumChildren": 0,
+        "NumChildren": 999,
         "inactive": "",
         "name": "",
         "addr1": "",
@@ -6481,7 +6505,7 @@ var unfiltered = [{
     {
         "id": "",
         "xParent": 304,
-        "NumChildren": 0,
+        "NumChildren": 999,
         "inactive": "",
         "name": "",
         "addr1": "",
@@ -6505,7 +6529,7 @@ var unfiltered = [{
     {
         "id": "",
         "xParent": 304,
-        "NumChildren": 0,
+        "NumChildren": 999,
         "inactive": "",
         "name": "",
         "addr1": "",
@@ -6529,7 +6553,7 @@ var unfiltered = [{
     {
         "id": "",
         "xParent": 304,
-        "NumChildren": 0,
+        "NumChildren": 999,
         "inactive": "",
         "name": "",
         "addr1": "",
@@ -6553,7 +6577,7 @@ var unfiltered = [{
     {
         "id": "",
         "xParent": 304,
-        "NumChildren": 0,
+        "NumChildren": 999,
         "inactive": "",
         "name": "",
         "addr1": "",
@@ -6577,7 +6601,7 @@ var unfiltered = [{
     {
         "id": "",
         "xParent": 304,
-        "NumChildren": 0,
+        "NumChildren": 999,
         "inactive": "",
         "name": "",
         "addr1": "",
@@ -6601,7 +6625,7 @@ var unfiltered = [{
     {
         "id": "",
         "xParent": 304,
-        "NumChildren": 0,
+        "NumChildren": 999,
         "inactive": "",
         "name": "",
         "addr1": "",
@@ -6625,7 +6649,7 @@ var unfiltered = [{
     {
         "id": "",
         "xParent": 304,
-        "NumChildren": 0,
+        "NumChildren": 999,
         "inactive": "",
         "name": "",
         "addr1": "",
@@ -6649,7 +6673,7 @@ var unfiltered = [{
     {
         "id": "",
         "xParent": 304,
-        "NumChildren": 0,
+        "NumChildren": 999,
         "inactive": "",
         "name": "",
         "addr1": "",
