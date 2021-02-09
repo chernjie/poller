@@ -641,7 +641,7 @@ var unfiltered = [{
         "time": "11am-7:30pm",
         "link": "https://www.calvax.org/clinic/private_registration/cdb802d9-d4a8-4200-b0f4-dabf28972ff9",
         "secondDose": "",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
@@ -6137,7 +6137,7 @@ var unfiltered = [{
         "time": "7-11:30am",
         "link": "",
         "secondDose": "https://www.calvax.org/clinic/private_registration/34555381-13ae-4354-955d-4a9965b98b87",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
@@ -6161,7 +6161,7 @@ var unfiltered = [{
         "time": "7-11:30am",
         "link": "",
         "secondDose": "https://www.calvax.org/clinic/private_registration/2a584f2b-5711-4059-8eda-3351f649a7c1",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
@@ -6185,7 +6185,7 @@ var unfiltered = [{
         "time": "7-11:30am",
         "link": "",
         "secondDose": "https://www.calvax.org/clinic/private_registration/43c16eab-2867-4694-b7b6-5f347402a3d7",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
@@ -6233,7 +6233,7 @@ var unfiltered = [{
         "time": "7-11:30am",
         "link": "",
         "secondDose": "https://www.calvax.org/clinic/private_registration/18897a98-4166-42b8-86bf-f6bc58e07ae2",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
@@ -6281,7 +6281,7 @@ var unfiltered = [{
         "time": "7-11:30am",
         "link": "",
         "secondDose": "https://www.calvax.org/clinic/private_registration/8dfc7450-a6a6-49ac-b2c5-95bd0807dad2",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
