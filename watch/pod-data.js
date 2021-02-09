@@ -713,7 +713,7 @@ var unfiltered = [{
         "time": "1-5pm",
         "link": "https://cw.calvax.org/clinic/private_registration/b3aa8263-1df9-4bfa-a690-94132e246434",
         "secondDose": "",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
