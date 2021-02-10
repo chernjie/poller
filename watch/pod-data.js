@@ -137,9 +137,9 @@ var unfiltered = [{
         "time": "",
         "link": "https://myturn.ca.gov/",
         "secondDose": "",
-        "full": "",
-        "comments": "<a target=\"_blank\" href=\"../../../../docs/MapPomonaFairplex.pdf\">Gate Map for Pomona Fairplex</a><ul><li>No first dose appointments will be available from 2-9-21 to at least 2-13-21 due to limited supply.</li></ul>",
-        "commentsSpn": "<a target=\"_blank\" href=\"../../../../docs/MapPomonaFairplex.pdf\">Mapa de la puerta de Pomona Fairplex</a><ul><li>No habrá citas de primera dosis disponibles desde el 2-9-21 hasta al menos el 2-13-21 debido al suministro limitado. </li></ul>",
+        "full": "-",
+        "comments": "Daily 9am-4:30pm <br><a target=\"_blank\" href=\"../../../../docs/MapPomonaFairplex.pdf\">Gate Map for Pomona Fairplex</a><br>\n<ul><li>No first dose appointments will be available at least until 2-13-21 due to limited supply.</li></ul>",
+        "commentsSpn": "Diariamente de 9am-4:30pm <br><a target=\"_blank\" href=\"../../../../docs/MapPomonaFairplex.pdf\">Mapa de la puerta de Pomona Fairplex</a><ul><li>No habrá citas disponibles para la primera dosis al menos hasta el 2-13-21 debido al suministro limitado.</li></ul>",
         "times": []
     },
     {
@@ -161,9 +161,9 @@ var unfiltered = [{
         "time": "",
         "link": "https://myturn.ca.gov/",
         "secondDose": "",
-        "full": "",
-        "comments": "<ul><li>No first dose appointments will be available from 2-9-21 to at least 2-13-21 due to limited supply..</li></ul>",
-        "commentsSpn": "<ul><li>No habrá citas de primera dosis disponibles desde el 2-9-21 hasta al menos el 2-13-21 debido al suministro limitado.</li></ul>",
+        "full": "-",
+        "comments": "Daily 9am-4:30pm <br>\n<ul><li>No first dose appointments will be available at least until 2-13-21 due to limited supply.</li></ul>",
+        "commentsSpn": "Diariamente de 9am-4:30pm <br><ul><li>No habrá citas disponibles para la primera dosis al menos hasta el 2-13-21 debido al suministro limitado.</li></ul>",
         "times": []
     },
     {
@@ -185,9 +185,9 @@ var unfiltered = [{
         "time": "",
         "link": "https://myturn.ca.gov/",
         "secondDose": "",
-        "full": "",
-        "comments": "<ul><li>No first dose appointments will be available from 2-9-21 to at least 2-13-21 due to limited supply..</li></ul>",
-        "commentsSpn": "<ul><li>No habrá citas de primera dosis disponibles desde el 2-9-21 hasta al menos el 2-13-21 debido al suministro limitado.</li></ul>",
+        "full": "-",
+        "comments": "Daily 9am-4:30pm <br>\n<ul><li>No first dose appointments will be available at least until 2-13-21 due to limited supply.</li></ul>",
+        "commentsSpn": "Diariamente de 9am-4:30pm <br><ul><li>No habrá citas disponibles para la primera dosis al menos hasta el 2-13-21 debido al suministro limitado.</li></ul>",
         "times": []
     },
     {
@@ -209,9 +209,9 @@ var unfiltered = [{
         "time": "",
         "link": "https://myturn.ca.gov/",
         "secondDose": "",
-        "full": "",
-        "comments": "<ul><li>No first dose appointments will be available from 2-9-21 to at least 2-13-21 due to limited supply..</li></ul>",
-        "commentsSpn": "<ul><li>No habrá citas de primera dosis disponibles desde el 2-9-21 hasta al menos el 2-13-21 debido al suministro limitado.</li></ul>",
+        "full": "-",
+        "comments": "Daily 9am-4:30pm <br>\n<ul><li>No first dose appointments will be available at least until 2-13-21 due to limited supply.</li></ul>",
+        "commentsSpn": "Diariamente de 9am-4:30pm <br><ul><li>No habrá citas disponibles para la primera dosis al menos hasta el 2-13-21 debido al suministro limitado.</li></ul>",
         "times": []
     },
     {
@@ -233,9 +233,9 @@ var unfiltered = [{
         "time": "",
         "link": "https://myturn.ca.gov/",
         "secondDose": "",
-        "full": "",
-        "comments": "<ul><li>No first dose appointments will be available from 2-9-21 to at least 2-13-21 due to limited supply..</li></ul>",
-        "commentsSpn": "<ul><li>No habrá citas de primera dosis disponibles desde el 2-9-21 hasta al menos el 2-13-21 debido al suministro limitado.</li></ul>",
+        "full": "-",
+        "comments": "Daily 9am-4:30pm <br>\n<ul><li>No first dose appointments will be available at least until 2-13-21 due to limited supply.</li></ul>",
+        "commentsSpn": "Diariamente de 9am-4:30pm <br><ul><li>No habrá citas disponibles para la primera dosis al menos hasta el 2-13-21 debido al suministro limitado.</li></ul>",
         "times": []
     },
     {
