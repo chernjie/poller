@@ -257,9 +257,9 @@ var unfiltered = [{
         "time": "",
         "link": "",
         "secondDose": "",
-        "full": "",
+        "full": "-",
         "comments": "Regular PODs are providing 2nd dose vaccine only",
-        "commentsSpn": "Los POD regulares solo proporcionan una segunda dosis de vacuna",
+        "commentsSpn": "Diariamente de 9am-3pm<br>Los POD regulares solo proporcionan una segunda dosis de vacuna",
         "times": []
     },
     {
@@ -281,8 +281,8 @@ var unfiltered = [{
         "time": "",
         "link": "",
         "secondDose": "",
-        "full": "",
-        "comments": "Regular PODs are providing 2nd dose vaccine only",
+        "full": "-",
+        "comments": "Daily 9am-3pm<br>Regular PODs are providing 2nd dose vaccine only",
         "commentsSpn": "Los POD regulares solo proporcionan una segunda dosis de vacuna",
         "times": []
     },
