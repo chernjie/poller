@@ -138,8 +138,8 @@ var unfiltered = [{
         "link": "https://myturn.ca.gov/",
         "secondDose": "",
         "full": "-",
-        "comments": "Daily 9am-4:30pm <br><a target=\"_blank\" href=\"../../../../docs/MapPomonaFairplex.pdf\">Gate Map for Pomona Fairplex</a><br>\n<ul><li>No first dose appointments will be available at least until 2-13-21 due to limited supply.</li></ul>",
-        "commentsSpn": "Diariamente de 9am-4:30pm <br><a target=\"_blank\" href=\"../../../../docs/MapPomonaFairplex.pdf\">Mapa de la puerta de Pomona Fairplex</a><ul><li>No habrá citas disponibles para la primera dosis al menos hasta el 2-13-21 debido al suministro limitado.</li></ul>",
+        "comments": "Daily 9am-4:30pm<br><a target=\"_blank\" href=\"../../../../docs/MapPomonaFairplex.pdf\">Gate Map for Pomona Fairplex</a><br><ul><li>2nd dose vaccine only</li></ul>",
+        "commentsSpn": "Diariamente de 9am-4:30pm <br><ul><li>Segunda dosis solamente.</li></ul>",
         "times": []
     },
     {
@@ -162,8 +162,8 @@ var unfiltered = [{
         "link": "https://myturn.ca.gov/",
         "secondDose": "",
         "full": "-",
-        "comments": "Daily 9am-4:30pm <br>\n<ul><li>No first dose appointments will be available at least until 2-13-21 due to limited supply.</li></ul>",
-        "commentsSpn": "Diariamente de 9am-4:30pm <br><ul><li>No habrá citas disponibles para la primera dosis al menos hasta el 2-13-21 debido al suministro limitado.</li></ul>",
+        "comments": "Daily 9am-4:30pm<br><ul><li>2nd dose vaccine only</li></ul>",
+        "commentsSpn": "Diariamente de 9am-4:30pm <br><a target=\"_blank\" href=\"../../../../docs/MapPomonaFairplex.pdf\">Mapa de la puerta de Pomona Fairplex</a><br><ul><li>Segunda dosis solamente.</li></ul>",
         "times": []
     },
     {
@@ -186,8 +186,8 @@ var unfiltered = [{
         "link": "https://myturn.ca.gov/",
         "secondDose": "",
         "full": "-",
-        "comments": "Daily 9am-4:30pm <br>\n<ul><li>No first dose appointments will be available at least until 2-13-21 due to limited supply.</li></ul>",
-        "commentsSpn": "Diariamente de 9am-4:30pm <br><ul><li>No habrá citas disponibles para la primera dosis al menos hasta el 2-13-21 debido al suministro limitado.</li></ul>",
+        "comments": "Daily 9am-4:30pm<br><ul><li>2nd dose vaccine only</li></ul>",
+        "commentsSpn": "Diariamente de 9am-4:30pm <br><ul><li>Segunda dosis solamente.</li></ul>",
         "times": []
     },
     {
@@ -210,8 +210,8 @@ var unfiltered = [{
         "link": "https://myturn.ca.gov/",
         "secondDose": "",
         "full": "-",
-        "comments": "Daily 9am-4:30pm <br>\n<ul><li>No first dose appointments will be available at least until 2-13-21 due to limited supply.</li></ul>",
-        "commentsSpn": "Diariamente de 9am-4:30pm <br><ul><li>No habrá citas disponibles para la primera dosis al menos hasta el 2-13-21 debido al suministro limitado.</li></ul>",
+        "comments": "Daily 9am-4:30pm<br><ul><li>2nd dose vaccine only</li></ul>",
+        "commentsSpn": "Diariamente de 9am-4:30pm <br><ul><li>Segunda dosis solamente.</li></ul>",
         "times": []
     },
     {
@@ -234,8 +234,8 @@ var unfiltered = [{
         "link": "https://myturn.ca.gov/",
         "secondDose": "",
         "full": "-",
-        "comments": "Daily 9am-4:30pm <br>\n<ul><li>No first dose appointments will be available at least until 2-13-21 due to limited supply.</li></ul>",
-        "commentsSpn": "Diariamente de 9am-4:30pm <br><ul><li>No habrá citas disponibles para la primera dosis al menos hasta el 2-13-21 debido al suministro limitado.</li></ul>",
+        "comments": "Daily 9am-4:30pm<br><ul><li>2nd dose vaccine only</li></ul>",
+        "commentsSpn": "Diariamente de 9am-4:30pm <br><ul><li>Segunda dosis solamente.</li></ul>",
         "times": []
     },
     {
@@ -258,8 +258,8 @@ var unfiltered = [{
         "link": "",
         "secondDose": "",
         "full": "-",
-        "comments": "Daily 9am-3pm<br>Regular PODs are providing 2nd dose vaccine only",
-        "commentsSpn": "Los POD regulares solo proporcionan una segunda dosis de vacuna",
+        "comments": "Daily 9am-3pm<br><ul><li>2nd dose vaccine only</li></ul>",
+        "commentsSpn": "Diariamente de 9am-3pm <br><ul><li>Segunda dosis solamente.</li></ul>",
         "times": []
     },
     {
@@ -282,8 +282,8 @@ var unfiltered = [{
         "link": "",
         "secondDose": "",
         "full": "-",
-        "comments": "Daily 9am-3pm<br>Regular PODs are providing 2nd dose vaccine only",
-        "commentsSpn": "Los POD regulares solo proporcionan una segunda dosis de vacuna",
+        "comments": "Daily 9am-3pm<br><ul><li>2nd dose vaccine only</li></ul>",
+        "commentsSpn": "Diariamente de 9am-3pm <br><ul><li>Segunda dosis solamente.</li></ul>",
         "times": []
     },
     {
