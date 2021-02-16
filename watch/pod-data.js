@@ -401,7 +401,7 @@ var unfiltered = [{
         "time": "5-7:30pm",
         "link": "https://www.calvax.org/clinic/private_registration/dcf6f378-d946-4b1a-aaa0-47c01b6889bf",
         "secondDose": "",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
@@ -425,7 +425,7 @@ var unfiltered = [{
         "time": "5-7:30pm",
         "link": "https://www.calvax.org/clinic/private_registration/1c97b8a9-2ec6-446b-bec7-c8b275dffde4",
         "secondDose": "",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
@@ -449,7 +449,7 @@ var unfiltered = [{
         "time": "5-7:30pm",
         "link": "https://www.calvax.org/clinic/private_registration/725997a7-bf01-492f-9046-60547aacf675",
         "secondDose": "",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
@@ -497,7 +497,7 @@ var unfiltered = [{
         "time": "5-7:30pm",
         "link": "https://www.calvax.org/clinic/private_registration/d1699753-4adb-434a-a794-0a8c564ca10a",
         "secondDose": "",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
@@ -521,7 +521,7 @@ var unfiltered = [{
         "time": "5-7:30pm",
         "link": "https://www.calvax.org/clinic/private_registration/6c43e4f2-2ddb-4f91-91fa-9f9d852b8904",
         "secondDose": "",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
@@ -545,7 +545,7 @@ var unfiltered = [{
         "time": "5-7:30pm",
         "link": "https://www.calvax.org/clinic/private_registration/a3c6ae10-a385-4209-99bf-bd092022b6d0",
         "secondDose": "",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
@@ -569,7 +569,7 @@ var unfiltered = [{
         "time": "5-7:30pm",
         "link": "https://www.calvax.org/clinic/private_registration/b9300566-8ec8-474e-b10f-f3fa41004752",
         "secondDose": "",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
@@ -617,7 +617,7 @@ var unfiltered = [{
         "time": "5-7:30pm",
         "link": "https://www.calvax.org/clinic/private_registration/8f65239f-90b4-4519-9a82-c0b6dd7b4a9b",
         "secondDose": "",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
@@ -641,7 +641,7 @@ var unfiltered = [{
         "time": "5-7:30pm",
         "link": "https://www.calvax.org/clinic/private_registration/597a23f3-114b-4bca-8f74-89157388ac3d",
         "secondDose": "",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
@@ -665,7 +665,7 @@ var unfiltered = [{
         "time": "5-7:30pm",
         "link": "https://www.calvax.org/clinic/private_registration/237e34f7-6ca3-4bdb-8889-eb8b4b6abaca",
         "secondDose": "",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
@@ -689,7 +689,7 @@ var unfiltered = [{
         "time": "5-7:30pm",
         "link": "https://www.calvax.org/clinic/private_registration/e20dd4f2-fe24-4d8f-b2f7-f4a153880493",
         "secondDose": "",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
@@ -737,7 +737,7 @@ var unfiltered = [{
         "time": "9am-5pm",
         "link": "https://www.calvax.org/clinic/private_registration/a9e5180d-cbb7-4d10-a36c-baff68bc18c3",
         "secondDose": "",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
@@ -761,7 +761,7 @@ var unfiltered = [{
         "time": "9am-5pm",
         "link": "https://www.calvax.org/clinic/private_registration/fee5e87e-380b-468b-ad12-fc93ef4fc44b",
         "secondDose": "",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
@@ -785,7 +785,7 @@ var unfiltered = [{
         "time": "9am-5pm",
         "link": "https://www.calvax.org/clinic/private_registration/ae783b88-e279-4659-b9a8-b9f89359bf05",
         "secondDose": "",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
@@ -809,7 +809,7 @@ var unfiltered = [{
         "time": "9am-5pm",
         "link": "https://www.calvax.org/clinic/private_registration/81d567fe-18c3-4188-a944-d14f3b4ce7e7",
         "secondDose": "",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
@@ -913,7 +913,7 @@ var unfiltered = [{
     {
         "id": 307,
         "xParent": 3,
-        "NumChildren": 0,
+        "NumChildren": 1,
         "inactive": "",
         "name": "St. John's Well Child and Family - Crenshaw",
         "addr1": "4251 Crenshaw Blvd.",
@@ -933,6 +933,30 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": []
+    },
+    {
+        "id": "",
+        "xParent": 307,
+        "NumChildren": 999,
+        "inactive": "",
+        "name": "",
+        "addr1": "",
+        "addr2": "",
+        "vaccines": "",
+        "logo": "",
+        "mapZoom": "",
+        "notes": "",
+        "notesSpn": "",
+        "alt": "",
+        "altSpn": "",
+        "date": "2/17/2021",
+        "time": "11am-7:30pm",
+        "link": "https://cw.calvax.org/clinic/private_registration/b7b46b34-4b2f-4dc1-880c-212e41d4e48d",
+        "secondDose": "",
+        "full": "",
+        "comments": "",
+        "commentsSpn": "",
+        "times": ""
     },
     {
         "id": 76,
@@ -6521,7 +6545,7 @@ var unfiltered = [{
         "time": "1:45pm - 3:45pm",
         "link": "https://www.calvax.org/clinic/private_registration/e648cbe7-0fc3-435b-b299-16f9e6f55e7c",
         "secondDose": "",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": ""
