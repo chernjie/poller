@@ -6303,7 +6303,7 @@ var unfiltered = [{
         "altSpn": "",
         "date": "2/18/2021",
         "time": "9am-4pm",
-        "link": "https://www.calvax.org/clinic/private_registration/f74cb27f-0528-4e72-a172-cbae9120c954",
+        "link": "https://www.calvax.org/reg/1911296009",
         "secondDose": "",
         "full": "",
         "comments": "",
