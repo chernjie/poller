@@ -90,7 +90,6 @@ You can try to relocate the page by using our
 		<div id="PHIS-Foot"></div></td>
 	</tr>
 </table>
-<script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1901696600"></script>
 </body>
 
 </html>
