@@ -21,7 +21,9 @@ var unfiltered = [{
         "full": "",
         "comments": "Appointments may be available.",
         "commentsSpn": "Las citas pueden estar disponibles.",
-        "times": []
+        "times": [],
+        "clinicFormat": 2,
+        "system": ""
     },
     {
         "id": 26,
@@ -46,7 +48,9 @@ var unfiltered = [{
         "full": "",
         "comments": "Appointments may be available.",
         "commentsSpn": "Las citas pueden estar disponibles.",
-        "times": []
+        "times": [],
+        "clinicFormat": 1,
+        "system": ""
     },
     {
         "id": 27,
@@ -71,7 +75,9 @@ var unfiltered = [{
         "full": "",
         "comments": "Appointments may be available.",
         "commentsSpn": "Las citas pueden estar disponibles.",
-        "times": []
+        "times": [],
+        "clinicFormat": 1,
+        "system": ""
     },
     {
         "id": 28,
@@ -96,7 +102,9 @@ var unfiltered = [{
         "full": "",
         "comments": "Appointments may be available.",
         "commentsSpn": "Las citas pueden estar disponibles.",
-        "times": []
+        "times": [],
+        "clinicFormat": 2,
+        "system": ""
     },
     {
         "id": 29,
@@ -121,7 +129,9 @@ var unfiltered = [{
         "full": "",
         "comments": "Appointments may be available.",
         "commentsSpn": "Las citas pueden estar disponibles.",
-        "times": []
+        "times": [],
+        "clinicFormat": 2,
+        "system": ""
     },
     {
         "id": "",
@@ -146,7 +156,9 @@ var unfiltered = [{
         "full": "",
         "comments": "Appointments may be available.",
         "commentsSpn": "Las citas pueden estar disponibles.",
-        "times": []
+        "times": [],
+        "clinicFormat": 1,
+        "system": ""
     },
     {
         "id": 30,
@@ -162,16 +174,18 @@ var unfiltered = [{
         "mapZoom": "https://www.google.com/maps/d/embed?mid=1AdIIUb669F7mV6J5A6McJo7eC5X67dfG&ll=34.096670175475126%2C-117.77396686301267&z=15",
         "notes": "DPH Mega POD <span class='text-danger'>(Drive-through Only)</span>",
         "notesSpn": "DPH Mega POD  <span class='text-danger'>(Solamente en carro)</span>",
-        "alt": "Daily 9am-4:30pm <br>\n2nd Dose Only",
-        "altSpn": "Diariamente de 9am-4:30pm <br>Segunda dosis solamente.",
+        "alt": "Daily 9am-4:30pm",
+        "altSpn": "Diariamente de 9am-4:30pm",
         "date": "",
         "time": "",
         "link": "https://myturn.ca.gov/",
         "secondDose": "",
-        "full": "-",
-        "comments": "Daily 9am-4:30pm<br><a target=\"_blank\" href=\"../../../../docs/MapPomonaFairplex.pdf\">Gate Map for Pomona Fairplex</a><br><ul><li>2nd dose vaccine only</li></ul>",
-        "commentsSpn": "Diariamente de 9am-4:30pm <br><ul><li>Segunda dosis solamente.</li></ul>",
-        "times": []
+        "full": "",
+        "comments": "<a target=\"_blank\" href=\"../../../../docs/MapPomonaFairplex.pdf\">Gate Map for Pomona Fairplex</a>",
+        "commentsSpn": "<a target=\"_blank\" href=\"../../../../docs/MapPomonaFairplex.pdf\">Mapa de la puerta de Pomona Fairplex</a>",
+        "times": [],
+        "clinicFormat": 2,
+        "system": 1
     },
     {
         "id": 35,
@@ -187,16 +201,18 @@ var unfiltered = [{
         "mapZoom": "https://www.google.com/maps/d/embed?mid=1AdIIUb669F7mV6J5A6McJo7eC5X67dfG&ll=33.95890400357743%2C-118.3486710630127&z=15",
         "notes": "DPH Mega POD <span class='text-danger'>(Drive-through Only)</span>",
         "notesSpn": "DPH Mega POD  <span class='text-danger'>(Solamente en carro)</span>",
-        "alt": "Daily 9am-4:30pm <br>\n2nd Dose Only",
-        "altSpn": "Diariamente de 9am-4:30pm <br>Segunda dosis solamente.",
+        "alt": "Daily 9am-4:30pm",
+        "altSpn": "Diariamente de 9am-4:30pm",
         "date": "",
         "time": "",
         "link": "https://myturn.ca.gov/",
         "secondDose": "",
-        "full": "-",
-        "comments": "Daily 9am-4:30pm<br><ul><li>2nd dose vaccine only</li></ul>",
-        "commentsSpn": "Diariamente de 9am-4:30pm <br><a target=\"_blank\" href=\"../../../../docs/MapPomonaFairplex.pdf\">Mapa de la puerta de Pomona Fairplex</a><br><ul><li>Segunda dosis solamente.</li></ul>",
-        "times": []
+        "full": "",
+        "comments": "",
+        "commentsSpn": "",
+        "times": [],
+        "clinicFormat": 2,
+        "system": 1
     },
     {
         "id": 40,
@@ -212,16 +228,18 @@ var unfiltered = [{
         "mapZoom": "https://www.google.com/maps/d/embed?mid=1AdIIUb669F7mV6J5A6McJo7eC5X67dfG&ll=34.24066748225191%2C-118.53281276301271&z=15",
         "notes": "DPH Mega POD <span class='text-danger'>(Drive-through Only)</span>",
         "notesSpn": "DPH Mega POD  <span class='text-danger'>(Solamente en carro)</span>",
-        "alt": "Daily 9am-4:30pm <br>\n2nd Dose Only",
-        "altSpn": "Diariamente de 9am-4:30pm <br>Segunda dosis solamente.",
+        "alt": "Daily 9am-4:30pm",
+        "altSpn": "Diariamente de 9am-4:30pm",
         "date": "",
         "time": "",
         "link": "https://myturn.ca.gov/",
         "secondDose": "",
-        "full": "-",
-        "comments": "Daily 9am-4:30pm<br><ul><li>2nd dose vaccine only</li></ul>",
-        "commentsSpn": "Diariamente de 9am-4:30pm <br><ul><li>Segunda dosis solamente.</li></ul>",
-        "times": []
+        "full": "",
+        "comments": "",
+        "commentsSpn": "",
+        "times": [],
+        "clinicFormat": 2,
+        "system": 1
     },
     {
         "id": 45,
@@ -237,16 +255,18 @@ var unfiltered = [{
         "mapZoom": "https://www.google.com/maps/d/embed?mid=1AdIIUb669F7mV6J5A6McJo7eC5X67dfG&ll=34.42217581875492%2C-118.5960041630127&z=15",
         "notes": "DPH Mega POD <span class='text-danger'>(Drive-through Only)</span>",
         "notesSpn": "DPH Mega POD  <span class='text-danger'>(Solamente en carro)</span>",
-        "alt": "Daily 9am-4:30pm <br>\n2nd Dose Only",
-        "altSpn": "Diariamente de 9am-4:30pm <br>Segunda dosis solamente.",
+        "alt": "Daily 9am-4:30pm",
+        "altSpn": "Diariamente de 9am-4:30pm",
         "date": "",
         "time": "",
         "link": "https://myturn.ca.gov/",
         "secondDose": "",
-        "full": "-",
-        "comments": "Daily 9am-4:30pm<br><ul><li>2nd dose vaccine only</li></ul>",
-        "commentsSpn": "Diariamente de 9am-4:30pm <br><ul><li>Segunda dosis solamente.</li></ul>",
-        "times": []
+        "full": "",
+        "comments": "",
+        "commentsSpn": "",
+        "times": [],
+        "clinicFormat": 2,
+        "system": 1
     },
     {
         "id": 50,
@@ -262,16 +282,18 @@ var unfiltered = [{
         "mapZoom": "https://www.google.com/maps/d/embed?mid=1AdIIUb669F7mV6J5A6McJo7eC5X67dfG&ll=33.91585311762904%2C-118.1391664630127&z=15",
         "notes": "DPH Mega POD <span class='text-danger'>(Drive-through Only)</span>",
         "notesSpn": "DPH Mega POD  <span class='text-danger'>(Solamente en carro)</span>",
-        "alt": "Daily 9am-4:30pm <br>\n2nd Dose Only",
-        "altSpn": "Diariamente de 9am-4:30pm <br>Segunda dosis solamente.",
+        "alt": "Daily 9am-4:30pm",
+        "altSpn": "Diariamente de 9am-4:30pm",
         "date": "",
         "time": "",
         "link": "https://myturn.ca.gov/",
         "secondDose": "",
-        "full": "-",
-        "comments": "Daily 9am-4:30pm<br><ul><li>2nd dose vaccine only</li></ul>",
-        "commentsSpn": "Diariamente de 9am-4:30pm <br><ul><li>Segunda dosis solamente.</li></ul>",
-        "times": []
+        "full": "",
+        "comments": "",
+        "commentsSpn": "",
+        "times": [],
+        "clinicFormat": 2,
+        "system": 1
     },
     {
         "id": 55,
@@ -291,12 +313,14 @@ var unfiltered = [{
         "altSpn": "Martes-Viernes 9am-3pm",
         "date": "",
         "time": "",
-        "link": "",
+        "link": "https://myturn.ca.gov/",
         "secondDose": "",
-        "full": "-",
-        "comments": "Tuesday-Friday 9am-3pm",
-        "commentsSpn": "Martes-viernes 9am-3pm",
-        "times": []
+        "full": "",
+        "comments": "",
+        "commentsSpn": "",
+        "times": [],
+        "clinicFormat": 1,
+        "system": 1
     },
     {
         "id": 58,
@@ -312,16 +336,18 @@ var unfiltered = [{
         "mapZoom": "https://www.google.com/maps/d/embed?mid=1AdIIUb669F7mV6J5A6McJo7eC5X67dfG&ll=34.075857599999985%2C-118.18179550000002&z=16",
         "notes": "Run by DPH",
         "notesSpn": "Dirigido por DPH",
-        "alt": "Tuesday-Friday 9am-3pm - Closed for 2nd dose Moderna on Friday 2/26/21",
-        "altSpn": "Martes-Viernes 9am-3pm - Cerrado para la segunda dosis de Moderna el viernes 2/26",
+        "alt": "Tuesday-Friday 9am-3pm",
+        "altSpn": "Martes-Viernes 9am-3pm",
         "date": "",
         "time": "",
-        "link": "",
+        "link": "https://myturn.ca.gov/",
         "secondDose": "",
-        "full": "-",
-        "comments": "Tuesday-Friday 9am-3pm <br><ul><li>2nd dose Moderna vaccine only - last day on Friday 3/2</li><li>1st dose Pfizer vaccine - from 3/3</li></ul>",
-        "commentsSpn": "Martes a viernes de 9am-3pm <br> <ul> <li> Segunda dosis de la vacuna Moderna únicamente - último día el viernes 3/2 </li> <li> Primera dosis de la vacuna Pfizer - desde 3/3 </li> </ul>",
-        "times": []
+        "full": "",
+        "comments": "",
+        "commentsSpn": "",
+        "times": [],
+        "clinicFormat": 1,
+        "system": 1
     },
     {
         "id": 61,
@@ -346,7 +372,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 62,
@@ -371,7 +399,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 63,
@@ -396,7 +426,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 64,
@@ -421,7 +453,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": 1
     },
     {
         "id": 67,
@@ -446,7 +480,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": 1
     },
     {
         "id": 321,
@@ -471,7 +507,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": 1
     },
     {
         "id": 70,
@@ -496,7 +534,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": 1
     },
     {
         "id": 73,
@@ -521,7 +561,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": 1
     },
     {
         "id": 300,
@@ -546,7 +588,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": 1
     },
     {
         "id": 301,
@@ -571,7 +615,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": 1
     },
     {
         "id": 302,
@@ -596,7 +642,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": 1
     },
     {
         "id": 306,
@@ -621,7 +669,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": 1
     },
     {
         "id": 307,
@@ -646,7 +696,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": 1
     },
     {
         "id": 76,
@@ -671,7 +723,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 77,
@@ -696,7 +750,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 78,
@@ -721,7 +777,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 79,
@@ -746,7 +804,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -771,7 +831,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 82,
@@ -796,7 +858,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 85,
@@ -821,7 +885,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -846,7 +912,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 308,
@@ -871,7 +939,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -896,7 +966,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 87,
@@ -921,7 +993,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -946,7 +1020,9 @@ var unfiltered = [{
         "full": "full",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 90,
@@ -971,12 +1047,14 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 95,
         "xParent": 3,
-        "NumChildren": 0,
+        "NumChildren": 1,
         "inactive": "",
         "organization": "Reported",
         "name": "Kedren Community Health Center",
@@ -994,9 +1072,38 @@ var unfiltered = [{
         "link": "",
         "secondDose": "",
         "full": "",
+        "comments": "On 3/1, offering FIRST DOSE Moderna <em>or</em> Pfizer vaccine.",
+        "commentsSpn": "El 3/1/21, esta ubicación ofrecerá la PRIMERA DOSIS de la vacuna Moderna <em> o </em> vacuna Pfizer.",
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
+    },
+    {
+        "id": "",
+        "xParent": 95,
+        "NumChildren": 999,
+        "inactive": "",
+        "organization": "",
+        "name": "",
+        "addr1": "",
+        "addr2": "",
+        "vaccines": "",
+        "logo": "",
+        "mapZoom": "",
+        "notes": "",
+        "notesSpn": "",
+        "alt": "",
+        "altSpn": "",
+        "date": "3/1/2021",
+        "time": "9am-4pm",
+        "link": "https://www.calvax.org/clinic/private_registration/b6eb7133-7880-4504-a94a-715631e0fecc",
+        "secondDose": "https://www.calvax.org/clinic/private_registration/6b7249b9-88be-400f-a2c8-2234c129101c",
+        "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 122,
@@ -1021,7 +1128,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": 1
     },
     {
         "id": 130,
@@ -1046,7 +1155,9 @@ var unfiltered = [{
         "full": "",
         "comments": "Appointments may be available.",
         "commentsSpn": "Las citas pueden estar disponibles.",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 131,
@@ -1071,7 +1182,9 @@ var unfiltered = [{
         "full": "",
         "comments": "Appointments may be available.",
         "commentsSpn": "Las citas pueden estar disponibles.",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 313,
@@ -1096,7 +1209,9 @@ var unfiltered = [{
         "full": "",
         "comments": "Appointments may be available.",
         "commentsSpn": "Las citas pueden estar disponibles.",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 314,
@@ -1121,7 +1236,9 @@ var unfiltered = [{
         "full": "",
         "comments": "Appointments may be available.",
         "commentsSpn": "Las citas pueden estar disponibles.",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 132,
@@ -1146,7 +1263,9 @@ var unfiltered = [{
         "full": "full",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 133,
@@ -1171,7 +1290,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 134,
@@ -1196,7 +1317,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 135,
@@ -1221,7 +1344,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 136,
@@ -1246,7 +1371,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 137,
@@ -1271,7 +1398,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 138,
@@ -1296,7 +1425,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 139,
@@ -1321,7 +1452,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 140,
@@ -1346,7 +1479,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 141,
@@ -1371,7 +1506,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 142,
@@ -1396,7 +1533,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 143,
@@ -1421,7 +1560,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 144,
@@ -1446,7 +1587,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 145,
@@ -1471,7 +1614,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 146,
@@ -1496,7 +1641,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 147,
@@ -1521,7 +1668,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 148,
@@ -1546,7 +1695,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 149,
@@ -1571,7 +1722,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 150,
@@ -1596,7 +1749,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 151,
@@ -1621,7 +1776,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 152,
@@ -1646,7 +1803,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 153,
@@ -1671,7 +1830,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 154,
@@ -1696,7 +1857,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 155,
@@ -1721,7 +1884,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 156,
@@ -1746,7 +1911,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 157,
@@ -1771,7 +1938,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 158,
@@ -1796,7 +1965,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 159,
@@ -1821,7 +1992,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 160,
@@ -1846,7 +2019,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 161,
@@ -1871,7 +2046,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 162,
@@ -1896,7 +2073,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 163,
@@ -1921,7 +2100,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 164,
@@ -1946,7 +2127,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 165,
@@ -1971,7 +2154,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 166,
@@ -1996,7 +2181,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 167,
@@ -2021,7 +2208,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 168,
@@ -2046,7 +2235,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 169,
@@ -2071,7 +2262,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 170,
@@ -2096,7 +2289,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 171,
@@ -2121,7 +2316,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 172,
@@ -2146,7 +2343,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 173,
@@ -2171,7 +2370,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 174,
@@ -2196,7 +2397,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 175,
@@ -2221,7 +2424,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 176,
@@ -2246,7 +2451,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 177,
@@ -2271,7 +2478,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 178,
@@ -2296,7 +2505,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 179,
@@ -2321,7 +2532,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 180,
@@ -2346,7 +2559,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 181,
@@ -2371,7 +2586,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 182,
@@ -2396,7 +2613,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 183,
@@ -2421,7 +2640,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 184,
@@ -2446,7 +2667,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 185,
@@ -2471,7 +2694,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 186,
@@ -2496,7 +2721,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 187,
@@ -2521,7 +2748,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 188,
@@ -2546,7 +2775,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 189,
@@ -2571,7 +2802,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 190,
@@ -2596,7 +2829,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 191,
@@ -2621,7 +2856,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 192,
@@ -2646,7 +2883,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 193,
@@ -2671,7 +2910,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 194,
@@ -2696,7 +2937,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 195,
@@ -2721,7 +2964,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 196,
@@ -2746,7 +2991,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 197,
@@ -2771,7 +3018,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 198,
@@ -2796,7 +3045,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 199,
@@ -2821,7 +3072,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 200,
@@ -2846,7 +3099,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 201,
@@ -2871,7 +3126,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 202,
@@ -2896,7 +3153,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 203,
@@ -2921,7 +3180,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 204,
@@ -2946,7 +3207,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 205,
@@ -2971,7 +3234,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 206,
@@ -2996,7 +3261,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 207,
@@ -3021,7 +3288,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 208,
@@ -3046,7 +3315,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 209,
@@ -3071,7 +3342,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 210,
@@ -3096,7 +3369,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 211,
@@ -3121,7 +3396,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3146,7 +3423,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3171,7 +3450,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3196,7 +3477,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3221,7 +3504,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3246,7 +3531,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3271,7 +3558,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3296,7 +3585,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3321,7 +3612,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3346,7 +3639,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3371,7 +3666,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3396,7 +3693,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3421,7 +3720,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3446,7 +3747,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3471,7 +3774,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3496,7 +3801,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3521,7 +3828,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3546,7 +3855,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3571,7 +3882,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3596,7 +3909,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3621,7 +3936,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3646,7 +3963,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3671,7 +3990,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3696,7 +4017,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3721,7 +4044,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3746,7 +4071,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3771,7 +4098,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3796,7 +4125,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3821,7 +4152,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3846,7 +4179,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3871,7 +4206,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3896,7 +4233,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3921,7 +4260,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3946,7 +4287,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3971,7 +4314,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -3996,7 +4341,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4021,7 +4368,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4046,7 +4395,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4071,7 +4422,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4096,7 +4449,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4121,7 +4476,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4146,7 +4503,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4171,7 +4530,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4196,7 +4557,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4221,7 +4584,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4246,7 +4611,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4271,7 +4638,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4296,7 +4665,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4321,7 +4692,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4346,7 +4719,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4371,7 +4746,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4396,7 +4773,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4421,7 +4800,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4446,7 +4827,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4471,7 +4854,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4496,7 +4881,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4521,7 +4908,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4546,7 +4935,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4571,7 +4962,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4596,7 +4989,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4621,7 +5016,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4646,7 +5043,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4671,7 +5070,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4696,7 +5097,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4721,7 +5124,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4746,7 +5151,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4771,7 +5178,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4796,7 +5205,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4821,7 +5232,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4846,7 +5259,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4871,7 +5286,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4896,7 +5313,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4921,7 +5340,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4946,7 +5367,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4971,7 +5394,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -4996,7 +5421,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5021,7 +5448,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5046,7 +5475,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5071,7 +5502,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5096,7 +5529,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5121,7 +5556,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5146,7 +5583,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5171,7 +5610,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5196,7 +5637,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5221,7 +5664,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5246,7 +5691,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5271,7 +5718,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5296,7 +5745,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5321,7 +5772,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5346,7 +5799,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5371,7 +5826,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5396,7 +5853,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5421,7 +5880,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5446,7 +5907,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5471,7 +5934,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5496,7 +5961,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5521,7 +5988,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5546,7 +6015,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5571,7 +6042,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5596,7 +6069,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5621,7 +6096,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5646,7 +6123,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5671,7 +6150,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5696,7 +6177,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5721,7 +6204,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5746,7 +6231,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5771,7 +6258,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5796,7 +6285,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5821,7 +6312,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": ""
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5846,7 +6339,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5871,7 +6366,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5896,7 +6393,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5921,7 +6420,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5946,7 +6447,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5971,7 +6474,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -5996,7 +6501,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 303,
@@ -6021,7 +6528,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<a target=\"_blank\" href=\"../../../../docs/MapHPMC.pdf\">Grounds Map for Hollywood Presbyterian Medical Center</a>",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 304,
@@ -6046,7 +6555,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": 1
     },
     {
         "id": 305,
@@ -6071,7 +6582,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 315,
@@ -6096,7 +6609,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 322,
@@ -6121,7 +6636,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 309,
@@ -6146,7 +6663,9 @@ var unfiltered = [{
         "full": "",
         "comments": "<ul><li>You do not need insurance or to be a Kaiser Permanente member to book an appointment. Kaiser Permanente members who are eligible for vaccine can visit&nbsp;<a target=\"_blank\" href=\"http://www.kp.org/covidvaccine\">www.kp.org/covidvaccine</a>&nbsp;for information on how to receive vaccine through Kaiser Permanente.</li><li>You can drive and park, arrive on foot, or come by rideshare or public transportation (for more information visit&nbsp;<a target=\"_blank\" href=\"http://www.foothilltransit.org/\">www.foothilltransit.org</a>). This hub is not drive-through but handicapped parking is available and there will be a cart service shuttling those with mobility challenges from the parking lot to the registration area.</li></ul>",
         "commentsSpn": "<ul><li>No necesita seguro ni ser miembro de Kaiser Permanente para programar una cita. Los miembros de Kaiser Permanente que son elegibles para la vacuna pueden visitar <a target=\"_blank\" href=\"https://espanol.kaiserpermanente.org/es/health-wellness/coronavirus-information/covid-vaccine?kp_shortcut_referrer=kp.org/covidvaccine\">www.kp.org/covidvaccine </a>para obtener informaci&oacute;n sobre c&oacute;mo recibir la vacuna a trav&eacute;s de Kaiser Permanente.</li><li>Puede conducir y estacionarse, llegar a pie o venir en transporte compartido o en transporte p&uacute;blico (para obtener m&aacute;s informaci&oacute;n, visite <a target=\"_blank\" href=\"http://www.foothilltransit.org\">www.foothilltransit.org</a>). Este centro no es para autos, pero hay estacionamiento para discapacitados disponible y habr&aacute; un servicio de carritos que transportar&aacute; a las personas con problemas de movilidad del estacionamiento al &aacute;rea de registro.</li></ul>",
-        "times": []
+        "times": [],
+        "clinicFormat": 1,
+        "system": 1
     },
     {
         "id": 312,
@@ -6171,7 +6690,9 @@ var unfiltered = [{
         "full": "",
         "comments": "Vaccination clinic at Health Professions Center (HPC). Please follow signage",
         "commentsSpn": "Clínica de vacunación en el Centro de Profesiones de la Salud (HPC). Siga la señalización",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -6196,7 +6717,9 @@ var unfiltered = [{
         "full": "",
         "comments": "Drive-through, arrive on foot, or come by rideshare or public transportation. A bus terminal and a metro train line are located nearby for those using public transportation.",
         "commentsSpn": "Conduzca, llegue a pie o en automóvil compartido o transporte público. Una terminal de autobuses y una línea de tren de metro se encuentran cerca para aquellos que usan el transporte público.",
-        "times": []
+        "times": [],
+        "clinicFormat": 3,
+        "system": 1
     },
     {
         "id": "",
@@ -6221,7 +6744,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": 2,
+        "system": 1
     },
     {
         "id": 316,
@@ -6246,7 +6771,9 @@ var unfiltered = [{
         "full": "",
         "comments": "1st and 2nd Dose, by appointment only",
         "commentsSpn": "Primera y segunda dosis, solo con cita previa",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 317,
@@ -6271,7 +6798,9 @@ var unfiltered = [{
         "full": "",
         "comments": "1st and 2nd Dose, by appointment only",
         "commentsSpn": "Primera y segunda dosis, solo con cita previa",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 318,
@@ -6296,7 +6825,9 @@ var unfiltered = [{
         "full": "",
         "comments": "1st and 2nd Dose, by appointment only",
         "commentsSpn": "Primera y segunda dosis, solo con cita previa",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 319,
@@ -6321,7 +6852,9 @@ var unfiltered = [{
         "full": "",
         "comments": "1st and 2nd Dose, by appointment only",
         "commentsSpn": "Primera y segunda dosis, solo con cita previa",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 320,
@@ -6346,7 +6879,9 @@ var unfiltered = [{
         "full": "",
         "comments": "1st and 2nd Dose, by appointment only",
         "commentsSpn": "Primera y segunda dosis, solo con cita previa",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -6371,7 +6906,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -6396,7 +6933,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -6421,7 +6960,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -6446,7 +6987,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -6471,7 +7014,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -6496,7 +7041,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -6521,7 +7068,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -6546,7 +7095,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -6571,7 +7122,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -6596,7 +7149,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -6621,7 +7176,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -6646,7 +7203,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -6671,7 +7230,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -6696,7 +7257,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -6721,7 +7284,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -6746,7 +7311,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 323,
@@ -6771,7 +7338,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -6796,7 +7365,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -6821,7 +7392,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -6846,7 +7419,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -6871,7 +7446,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -6896,7 +7473,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -6921,7 +7500,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -6946,7 +7527,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -6971,7 +7554,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -6996,7 +7581,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7021,7 +7608,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7046,7 +7635,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7071,7 +7662,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7096,7 +7689,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7121,7 +7716,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7146,7 +7743,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7171,7 +7770,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7196,7 +7797,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7221,7 +7824,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7246,7 +7851,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7271,7 +7878,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7296,7 +7905,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7321,7 +7932,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7346,7 +7959,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7371,7 +7986,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7396,7 +8013,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7421,7 +8040,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7446,7 +8067,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7471,7 +8094,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7496,7 +8121,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7521,7 +8148,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7546,7 +8175,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7571,7 +8202,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7596,7 +8229,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7621,7 +8256,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7646,7 +8283,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7671,7 +8310,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7696,7 +8337,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7721,7 +8364,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7746,7 +8391,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7771,7 +8418,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7796,7 +8445,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7821,7 +8472,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7846,7 +8499,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7871,7 +8526,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7896,7 +8553,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7921,7 +8580,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7946,7 +8607,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -7971,7 +8634,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": 324,
@@ -7996,7 +8661,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8021,7 +8688,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8046,7 +8715,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8071,7 +8742,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8096,7 +8769,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8121,7 +8796,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8146,7 +8823,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8171,7 +8850,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8196,7 +8877,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8221,7 +8904,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8246,7 +8931,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8271,7 +8958,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8296,7 +8985,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8321,7 +9012,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8346,7 +9039,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8371,7 +9066,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8396,7 +9093,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8421,7 +9120,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8446,7 +9147,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8471,7 +9174,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8496,7 +9201,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8521,7 +9228,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8546,7 +9255,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8571,7 +9282,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8596,7 +9309,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8621,7 +9336,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8646,7 +9363,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8671,7 +9390,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8696,7 +9417,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8721,7 +9444,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8746,7 +9471,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8771,7 +9498,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8796,7 +9525,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8821,7 +9552,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8846,7 +9579,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8871,7 +9606,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8896,7 +9633,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8921,7 +9660,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8946,7 +9687,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8971,7 +9714,9 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     },
     {
         "id": "",
@@ -8996,6 +9741,8 @@ var unfiltered = [{
         "full": "",
         "comments": "",
         "commentsSpn": "",
-        "times": []
+        "times": [],
+        "clinicFormat": "",
+        "system": ""
     }
 ]
