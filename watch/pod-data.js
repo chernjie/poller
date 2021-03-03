@@ -373,7 +373,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": ""
     },
     {
@@ -400,7 +400,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": ""
     },
     {
@@ -427,7 +427,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": 1
     },
     {
@@ -454,7 +454,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": 1
     },
     {
@@ -481,7 +481,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": 1
     },
     {
@@ -508,7 +508,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": 1
     },
     {
@@ -535,7 +535,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": 1
     },
     {
@@ -562,7 +562,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": 1
     },
     {
@@ -589,7 +589,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": 1
     },
     {
@@ -616,7 +616,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": 1
     },
     {
@@ -643,7 +643,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": 1
     },
     {
@@ -670,7 +670,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": 1
     },
     {
@@ -697,7 +697,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": ""
     },
     {
@@ -724,7 +724,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": ""
     },
     {
@@ -751,7 +751,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": ""
     },
     {
@@ -778,7 +778,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": ""
     },
     {
@@ -805,7 +805,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": ""
     },
     {
@@ -832,7 +832,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": ""
     },
     {
@@ -859,7 +859,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": ""
     },
     {
@@ -886,7 +886,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": ""
     },
     {
@@ -913,7 +913,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": ""
     },
     {
@@ -940,7 +940,7 @@ var unfiltered = [{
         "comments": "This week, offering FIRST DOSE Moderna <em>or</em> Pfizer vaccine.  Second dose appointments are for Moderna only",
         "commentsSpn": "Esta semana, esta ubicación ofrecerá la PRIMERA DOSIS de la vacuna Moderna <em> o </em> vacuna Pfizer.  Las citas para la segunda dosis son solo para vacuna Moderna.",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": ""
     },
     {
@@ -1183,7 +1183,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": 1
     },
     {
@@ -1210,7 +1210,7 @@ var unfiltered = [{
         "comments": "Appointments may be available.",
         "commentsSpn": "Las citas pueden estar disponibles.",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": ""
     },
     {
@@ -1237,7 +1237,7 @@ var unfiltered = [{
         "comments": "Appointments may be available.",
         "commentsSpn": "Las citas pueden estar disponibles.",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": ""
     },
     {
@@ -1264,7 +1264,7 @@ var unfiltered = [{
         "comments": "Appointments may be available.",
         "commentsSpn": "Las citas pueden estar disponibles.",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": ""
     },
     {
@@ -1291,7 +1291,7 @@ var unfiltered = [{
         "comments": "Appointments may be available.",
         "commentsSpn": "Las citas pueden estar disponibles.",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": ""
     },
     {
@@ -1318,7 +1318,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": ""
     },
     {
@@ -3451,7 +3451,7 @@ var unfiltered = [{
         "comments": "<span class=\"text-danger\">This location has informed us that no appointments are currently available.</span>",
         "commentsSpn": "<span class=\"text-danger\">Este lugar nos ha dicho que actualmente no hay citas disponibles.</span>",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": ""
     },
     {
@@ -6388,7 +6388,7 @@ var unfiltered = [{
         "altSpn": "",
         "date": "",
         "time": "",
-        "link": "https://book-costcopharmacy.appointment-plus.com/ctcr9ncx/?&e_id=5253",
+        "link": "",
         "secondDose": "",
         "full": "",
         "comments": "",
@@ -6415,9 +6415,9 @@ var unfiltered = [{
         "altSpn": "",
         "date": "",
         "time": "",
-        "link": "https://book-costcopharmacy.appointment-plus.com/ctcrej1k/?&e_id=5255",
+        "link": "",
         "secondDose": "",
-        "full": "",
+        "full": "-",
         "comments": "",
         "commentsSpn": "",
         "times": [],
@@ -6442,9 +6442,9 @@ var unfiltered = [{
         "altSpn": "",
         "date": "",
         "time": "",
-        "link": "https://book-costcopharmacy.appointment-plus.com/ctcrjekm/?&e_id=5257",
+        "link": "",
         "secondDose": "",
-        "full": "",
+        "full": "-",
         "comments": "",
         "commentsSpn": "",
         "times": [],
@@ -6469,9 +6469,9 @@ var unfiltered = [{
         "altSpn": "",
         "date": "",
         "time": "",
-        "link": "https://book-costcopharmacy.appointment-plus.com/ctcrvy9v/?&e_id=5259",
+        "link": "",
         "secondDose": "",
-        "full": "",
+        "full": "-",
         "comments": "",
         "commentsSpn": "",
         "times": [],
@@ -6496,9 +6496,9 @@ var unfiltered = [{
         "altSpn": "",
         "date": "",
         "time": "",
-        "link": "https://book-costcopharmacy.appointment-plus.com/ctcsne46/?&e_id=5261",
+        "link": "",
         "secondDose": "",
-        "full": "",
+        "full": "-",
         "comments": "",
         "commentsSpn": "",
         "times": [],
@@ -6523,9 +6523,9 @@ var unfiltered = [{
         "altSpn": "",
         "date": "",
         "time": "",
-        "link": "https://book-costcopharmacy.appointment-plus.com/ctcss9n8/?&e_id=5263",
+        "link": "",
         "secondDose": "",
-        "full": "",
+        "full": "-",
         "comments": "",
         "commentsSpn": "",
         "times": [],
@@ -6550,9 +6550,9 @@ var unfiltered = [{
         "altSpn": "",
         "date": "",
         "time": "",
-        "link": "https://book-costcopharmacy.appointment-plus.com/ctct35cy/?&e_id=5265",
+        "link": "",
         "secondDose": "",
-        "full": "",
+        "full": "-",
         "comments": "",
         "commentsSpn": "",
         "times": [],
@@ -6583,7 +6583,7 @@ var unfiltered = [{
         "comments": "<a target=\"_blank\" href=\"../../../../docs/MapHPMC.pdf\">Grounds Map for Hollywood Presbyterian Medical Center</a>",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 2,
         "system": ""
     },
     {
@@ -6610,7 +6610,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": 1
     },
     {
@@ -6637,7 +6637,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": ""
     },
     {
@@ -6664,7 +6664,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": ""
     },
     {
@@ -6691,7 +6691,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": ""
     },
     {
@@ -6724,7 +6724,7 @@ var unfiltered = [{
     {
         "id": 312,
         "xParent": 3,
-        "NumChildren": 0,
+        "NumChildren": 3,
         "inactive": "",
         "organization": "Reported",
         "name": "Western University of Health Sciences Vaccine Clinic",
@@ -6745,6 +6745,87 @@ var unfiltered = [{
         "comments": "Vaccination clinic at Health Professions Center (HPC). Please follow signage",
         "commentsSpn": "Clínica de vacunación en el Centro de Profesiones de la Salud (HPC). Siga la señalización",
         "times": [],
+        "clinicFormat": 1,
+        "system": ""
+    },
+    {
+        "id": "",
+        "xParent": 312,
+        "NumChildren": 999,
+        "inactive": "",
+        "organization": "",
+        "name": "",
+        "addr1": "",
+        "addr2": "",
+        "vaccines": "",
+        "logo": "",
+        "mapZoom": "",
+        "notes": "",
+        "notesSpn": "",
+        "alt": "",
+        "altSpn": "",
+        "date": "3/3/2021",
+        "time": "9am-1pm",
+        "link": "https://www.calvax.org/reg/1461703492",
+        "secondDose": "",
+        "full": "",
+        "comments": "",
+        "commentsSpn": "",
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
+    },
+    {
+        "id": "",
+        "xParent": 312,
+        "NumChildren": 999,
+        "inactive": "",
+        "organization": "",
+        "name": "",
+        "addr1": "",
+        "addr2": "",
+        "vaccines": "",
+        "logo": "",
+        "mapZoom": "",
+        "notes": "",
+        "notesSpn": "",
+        "alt": "",
+        "altSpn": "",
+        "date": "3/4/2021",
+        "time": "9am-4pm",
+        "link": "https://www.calvax.org/reg/2213917065",
+        "secondDose": "",
+        "full": "",
+        "comments": "",
+        "commentsSpn": "",
+        "times": "",
+        "clinicFormat": "",
+        "system": ""
+    },
+    {
+        "id": "",
+        "xParent": 312,
+        "NumChildren": 999,
+        "inactive": "",
+        "organization": "",
+        "name": "",
+        "addr1": "",
+        "addr2": "",
+        "vaccines": "",
+        "logo": "",
+        "mapZoom": "",
+        "notes": "",
+        "notesSpn": "",
+        "alt": "",
+        "altSpn": "",
+        "date": "3/6/2021",
+        "time": "9am-4pm",
+        "link": "https://www.calvax.org/reg/2637176109",
+        "secondDose": "",
+        "full": "",
+        "comments": "",
+        "commentsSpn": "",
+        "times": "",
         "clinicFormat": "",
         "system": ""
     },
@@ -6806,7 +6887,7 @@ var unfiltered = [{
         "id": 316,
         "xParent": 1,
         "NumChildren": 0,
-        "inactive": "",
+        "inactive": "TRUE",
         "organization": "Reported",
         "name": "Central Public Health Center",
         "addr1": "241 N. Figueroa Street",
@@ -6826,7 +6907,7 @@ var unfiltered = [{
         "comments": "1st and 2nd Dose, by appointment only",
         "commentsSpn": "Primera y segunda dosis, solo con cita previa",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": ""
     },
     {
@@ -6853,7 +6934,7 @@ var unfiltered = [{
         "comments": "1st and 2nd Dose, by appointment only",
         "commentsSpn": "Primera y segunda dosis, solo con cita previa",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": ""
     },
     {
@@ -6880,7 +6961,7 @@ var unfiltered = [{
         "comments": "1st and 2nd Dose, by appointment only",
         "commentsSpn": "Primera y segunda dosis, solo con cita previa",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": ""
     },
     {
@@ -6907,7 +6988,7 @@ var unfiltered = [{
         "comments": "1st and 2nd Dose, by appointment only",
         "commentsSpn": "Primera y segunda dosis, solo con cita previa",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": ""
     },
     {
@@ -6934,7 +7015,7 @@ var unfiltered = [{
         "comments": "1st and 2nd Dose, by appointment only",
         "commentsSpn": "Primera y segunda dosis, solo con cita previa",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": ""
     },
     {
@@ -7393,7 +7474,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": ""
     },
     {
@@ -7414,9 +7495,9 @@ var unfiltered = [{
         "altSpn": "",
         "date": "",
         "time": "",
-        "link": "https://book-costcopharmacy.appointment-plus.com/d0bslyqx/?&e_id=6687",
+        "link": "",
         "secondDose": "",
-        "full": "",
+        "full": "-",
         "comments": "",
         "commentsSpn": "",
         "times": [],
@@ -7441,9 +7522,9 @@ var unfiltered = [{
         "altSpn": "",
         "date": "",
         "time": "",
-        "link": "https://book-costcopharmacy.appointment-plus.com/d0bt124m/?&e_id=6689",
+        "link": "",
         "secondDose": "",
-        "full": "",
+        "full": "-",
         "comments": "",
         "commentsSpn": "",
         "times": [],
@@ -7468,9 +7549,9 @@ var unfiltered = [{
         "altSpn": "",
         "date": "",
         "time": "",
-        "link": "https://book-costcopharmacy.appointment-plus.com/d0c96r5s/?&e_id=6691",
+        "link": "",
         "secondDose": "",
-        "full": "",
+        "full": "-",
         "comments": "",
         "commentsSpn": "",
         "times": [],
@@ -8716,7 +8797,7 @@ var unfiltered = [{
         "comments": "",
         "commentsSpn": "",
         "times": [],
-        "clinicFormat": "",
+        "clinicFormat": 1,
         "system": ""
     },
     {
