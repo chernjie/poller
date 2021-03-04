@@ -1422,9 +1422,9 @@ var unfiltered = [{
         "time": "",
         "link": "https://onemedical.com/LAVAX/",
         "secondDose": "",
-        "full": "full",
-        "comments": "",
-        "commentsSpn": "",
+        "full": "-",
+        "comments": "Second dose only.  <strong>Limited to people who received their first dose of vaccine from One Medical.</strong>",
+        "commentsSpn": "Segunda dosis solamente. <strong>Limitado a personas que recibieron su primera dosis de vacuna de One Medical.</strong>",
         "times": [],
         "clinicFormat": 1,
         "system": ""
