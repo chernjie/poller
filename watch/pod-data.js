@@ -817,7 +817,7 @@ var unfiltered = [{
         "name": "St. John's Well Child and Family - Rolland Curtis",
         "addr1": "1060 Exposition Blvd.",
         "addr2": "Los Angeles, CA 90037",
-        "vaccines": "p",
+        "vaccines": "j",
         "logo": "",
         "mapZoom": "https://www.google.com/maps/d/embed?mid=1AdIIUb669F7mV6J5A6McJo7eC5X67dfG&ll=34.017996499999974%2C-118.29390880000001&z=16",
         "notes": null,
