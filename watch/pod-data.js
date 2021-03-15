@@ -329,7 +329,7 @@ var unfiltered = [{
         "inactive": "",
         "organization": "Reported",
         "name": "El Sereno Recreation Center",
-        "addr1": "4721 Klamath St",
+        "addr1": "2660 Ruth Swiggett Drive",
         "addr2": "Los Angeles, CA 90032",
         "vaccines": "p",
         "logo": "dph",
