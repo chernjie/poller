@@ -1616,7 +1616,7 @@ var unfiltered = [{
         "commentsSpn": "Esta semana, esta ubicación ofrecerá la PRIMERA DOSIS de la vacuna Moderna <em> o </em> vacuna Pfizer.  Las citas para la segunda dosis son solo para vacuna Moderna.",
         "times": [],
         "clinicFormat": 1,
-        "system": ""
+        "system": 1
     },
     {
         "id": 122,
