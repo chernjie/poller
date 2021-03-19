@@ -6768,7 +6768,7 @@ var unfiltered = [{
         "time": "8am-5pm",
         "link": "https://www.calvax.org/reg/1682936600",
         "secondDose": "",
-        "full": "",
+        "full": "full",
         "comments": "",
         "commentsSpn": "",
         "times": "",
