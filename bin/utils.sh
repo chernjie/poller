@@ -2,7 +2,8 @@
 # @author CJ lim@chernjie.com
 
 COLOR_RED()   { echo -en "\033[31m"; }
-COLOR_GREEN() { echo -en "\033[32m"; }COLOR_YELLOW(){ echo -en "\033[33m"; }                                                                                                      [35/348]
+COLOR_GREEN() { echo -en "\033[32m"; }
+COLOR_YELLOW(){ echo -en "\033[33m"; }
 COLOR_BLUE()  { echo -en "\033[34m"; }
 COLOR_MAGENTA()  { echo -en "\033[35m"; }
 COLOR_RESET() { echo -en "\033[0m";  }
