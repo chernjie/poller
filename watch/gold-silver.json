@@ -1,0 +1,194 @@
+{
+  "currentDate": "15 March 2022",
+  "time": "153900",
+  "types": [
+    {
+      "description": "ACB",
+      "code": null,
+      "currency": "SGD",
+      "unit": "100 GM",
+      "bankSell": "8557.00",
+      "bankBuy": "8445.00",
+      "bankBuyOD": null,
+      "denoflg": null
+    },
+    {
+      "description": "CTB",
+      "code": null,
+      "currency": "SGD",
+      "unit": "1 KILOBAR",
+      "bankSell": "85085.00",
+      "bankBuy": "84470.00",
+      "bankBuyOD": null,
+      "denoflg": null
+    },
+    {
+      "description": "GBC",
+      "code": null,
+      "currency": "SGD",
+      "unit": "1/20 OZ(GNC,SLC &GML)",
+      "bankSell": "180.00",
+      "bankBuy": "130.00",
+      "bankBuyOD": null,
+      "denoflg": null
+    },
+    {
+      "description": "GBC",
+      "code": null,
+      "currency": "SGD",
+      "unit": "1/10 OZ",
+      "bankSell": "309.00",
+      "bankBuy": "261.00",
+      "bankBuyOD": null,
+      "denoflg": null
+    },
+    {
+      "description": "GBC",
+      "code": null,
+      "currency": "SGD",
+      "unit": "1/4 OZ",
+      "bankSell": "713.00",
+      "bankBuy": "656.00",
+      "bankBuyOD": null,
+      "denoflg": null
+    },
+    {
+      "description": "GBC",
+      "code": null,
+      "currency": "SGD",
+      "unit": "1/2 OZ",
+      "bankSell": "1399.00",
+      "bankBuy": "1312.00",
+      "bankBuyOD": null,
+      "denoflg": null
+    },
+    {
+      "description": "GBC",
+      "code": null,
+      "currency": "SGD",
+      "unit": "1 OZ",
+      "bankSell": "2718.00",
+      "bankBuy": "2626.00",
+      "bankBuyOD": null,
+      "denoflg": null
+    },
+    {
+      "description": "GCT",
+      "code": null,
+      "currency": "SGD",
+      "unit": "1 KILOCERT",
+      "bankSell": "85085.00",
+      "bankBuy": "84470.00",
+      "bankBuyOD": null,
+      "denoflg": null
+    },
+    {
+      "description": "GSA",
+      "code": null,
+      "currency": "SGD",
+      "unit": "1 GM",
+      "bankBuyOD": null,
+      "denoflg": null
+    },
+    {
+      "description": "PGL",
+      "code": null,
+      "currency": "SGD",
+      "unit": "1/2 OZ",
+      "bankSell": "1372.00",
+      "bankBuy": "1311.00",
+      "bankBuyOD": null,
+      "denoflg": null
+    },
+    {
+      "description": "PGL",
+      "code": null,
+      "currency": "SGD",
+      "unit": "1 GM",
+      "bankSell": "114.00",
+      "bankBuy": "82.00",
+      "bankBuyOD": null,
+      "denoflg": null
+    },
+    {
+      "description": "PGL",
+      "code": null,
+      "currency": "SGD",
+      "unit": "1 OZ",
+      "bankSell": "2703.00",
+      "bankBuy": "2625.00",
+      "bankBuyOD": null,
+      "denoflg": null
+    },
+    {
+      "description": "PGL",
+      "code": null,
+      "currency": "SGD",
+      "unit": "2.5 GM",
+      "bankSell": "262.00",
+      "bankBuy": "208.00",
+      "bankBuyOD": null,
+      "denoflg": null
+    },
+    {
+      "description": "PGL",
+      "code": null,
+      "currency": "SGD",
+      "unit": "5 GM",
+      "bankSell": "481.00",
+      "bankBuy": "420.00",
+      "bankBuyOD": null,
+      "denoflg": null
+    },
+    {
+      "description": "PGL",
+      "code": null,
+      "currency": "SGD",
+      "unit": "10 GM",
+      "bankSell": "915.00",
+      "bankBuy": "842.00",
+      "bankBuyOD": null,
+      "denoflg": null
+    },
+    {
+      "description": "PGL",
+      "code": null,
+      "currency": "SGD",
+      "unit": "20 GM",
+      "bankSell": "1769.00",
+      "bankBuy": "1687.00",
+      "bankBuyOD": null,
+      "denoflg": null
+    },
+    {
+      "description": "PGL",
+      "code": null,
+      "currency": "SGD",
+      "unit": "50 GM",
+      "bankSell": "4339.00",
+      "bankBuy": "4221.00",
+      "bankBuyOD": null,
+      "denoflg": null
+    },
+    {
+      "description": "PGL",
+      "code": null,
+      "currency": "SGD",
+      "unit": "100 GM",
+      "bankSell": "8602.00",
+      "bankBuy": "8445.00",
+      "bankBuyOD": null,
+      "denoflg": null
+    },
+    {
+      "description": "SSA",
+      "code": null,
+      "currency": "SGD",
+      "unit": "1 OZ",
+      "bankSell": "34.31",
+      "bankBuy": "33.44",
+      "bankBuyOD": null,
+      "denoflg": null
+    }
+  ]
+}

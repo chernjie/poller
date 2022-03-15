@@ -5,7 +5,7 @@ cd "$(dirname "${BASH_SOURCE}")/.."
 source ./.env
 source ./bin/utils.sh
 
-use git slack.sh curl gsed json2csv dos2unix html-beautify
+use git slack.sh curl jq sponge sed json2csv dos2unix npx
 
 mkdir -p ./watch ./data
 
