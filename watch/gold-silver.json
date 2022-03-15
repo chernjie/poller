@@ -1,0 +1,16 @@
+{
+  "currentDate": "15 March 2022",
+  "time": "221708",
+  "types": [
+    {
+      "description": "GSA",
+      "code": null,
+      "currency": "SGD",
+      "unit": "1 GM",
+      "bankSell": "84.23",
+      "bankBuy": "83.62",
+      "bankBuyOD": null,
+      "denoflg": null
+    }
+  ]
+}
