@@ -87,6 +87,8 @@
       "code": null,
       "currency": "SGD",
       "unit": "1 GM",
+      "bankSell": "85.08",
+      "bankBuy": "84.47",
       "bankBuyOD": null,
       "denoflg": null
     },
