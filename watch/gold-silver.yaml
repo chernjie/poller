@@ -1,12 +1,12 @@
 currentDate: 01 August 2022
-time: '112433'
+time: '134511'
 types:
   - description: GSA
     code: null
     currency: SGD
     unit: 1 GM
-    bankSell: '78.49'
-    bankBuy: '77.89'
+    bankSell: '78.45'
+    bankBuy: '77.85'
     bankBuyOD: null
     denoflg: null
 
