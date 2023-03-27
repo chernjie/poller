@@ -1,12 +1,12 @@
-currentDate: 24 March 2023
-time: '221134'
+currentDate: 27 March 2023
+time: '084524'
 types:
   - description: GSA
     code: null
     currency: SGD
     unit: 1 GM
-    bankSell: '85.73'
-    bankBuy: '85.13'
+    bankSell: '84.93'
+    bankBuy: '84.34'
     bankBuyOD: null
     denoflg: null
 
