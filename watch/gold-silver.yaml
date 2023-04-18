@@ -1,4 +1,12 @@
-currentDate: null
-time: null
-types: []
+currentDate: 18 April 2023
+time: '212526'
+types:
+  - description: GSA
+    code: null
+    currency: SGD
+    unit: 1 GM
+    bankSell: '85.90'
+    bankBuy: '85.30'
+    bankBuyOD: null
+    denoflg: null
 
